@@ -1,2 +1,2 @@
 ## Long addition
-Implement addition of two big numbers.
+Implement addition of two large numbers.

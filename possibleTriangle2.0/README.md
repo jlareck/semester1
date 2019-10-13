@@ -1,2 +1,2 @@
 ## Triangles
-Find numbers that makes triangles. 
+Find sets of numbers that make triangles.
